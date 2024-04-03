@@ -15,8 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Islam-2000&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sullyehabb) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>
